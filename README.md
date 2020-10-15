@@ -9,3 +9,4 @@ List to learn and use for this project:
 -JS  
 -Menu managing or Yelp API  
 -Location permission  
+-auth0 for security login
